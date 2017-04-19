@@ -1,9 +1,14 @@
-# api documentation for  [homebridge-http (v0.0.9)](https://github.com/rudders/homebridge-http#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-homebridge-http.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-homebridge-http) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-homebridge-http.svg)](https://travis-ci.org/npmdoc/node-npmdoc-homebridge-http)
+# npmdoc-homebridge-http
+
+#### api documentation for  [homebridge-http (v0.0.9)](https://github.com/rudders/homebridge-http#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-homebridge-http.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-homebridge-http) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-homebridge-http.svg)](https://travis-ci.org/npmdoc/node-npmdoc-homebridge-http)
+
 #### http(s) plugin for Homebridge: https://github.com/nfarina/homebridge
 
-[![NPM](https://nodei.co/npm/homebridge-http.png?downloads=true)](https://www.npmjs.com/package/homebridge-http)
+[![NPM](https://nodei.co/npm/homebridge-http.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/homebridge-http)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-homebridge-http_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-homebridge-http/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-homebridge-http/build/screenCapture.npmPackageListing.svg)
 
@@ -53,13 +58,11 @@
     "license": "ISC",
     "maintainers": [
         {
-            "name": "rudders",
-            "email": "a.rudman@binarylight.com.au"
+            "name": "rudders"
         }
     ],
     "name": "homebridge-http",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/rudders/homebridge-http.git"
@@ -68,16 +71,6 @@
     "version": "0.0.9"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module homebridge-http](#apidoc.module.homebridge-http)
-
-
-
-# <a name="apidoc.module.homebridge-http"></a>[module homebridge-http](#apidoc.module.homebridge-http)
 
 
 
